@@ -13,3 +13,7 @@ Features
 Custom landing page with summary and photo Detailed "About Me" section Project gallery with code and demo links Technology and tools overview Contact information and external profile links Fully responsive design for desktop, tablet, and mobile Tech Stack
 
 HTML5 for structure CSS for styling and layout JavaScript for interactivity Preview 
+
+
+https://github.com/user-attachments/assets/c9da6860-9c9a-49aa-9471-595eab51bfea
+
